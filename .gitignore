@@ -1,0 +1,5 @@
+/node_modules
+.vscode
+/.angular/cache
+.DS_Store
+/tmp
